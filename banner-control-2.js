@@ -1,4 +1,4 @@
-var websitePrivacyPage = "https://mycodelesswebsite.com/privacy-policy-terms-conditions/";
+var websitePrivacyPage = "https://www.mijnnaaiatelier.nl/";
 var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
 var categoryText = ["Nodig", "Voorkeuren", "Statistieken", "Marketing", "Niet geclassificeerd"];
